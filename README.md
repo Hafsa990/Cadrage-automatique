@@ -12,5 +12,5 @@ There is an example jupyter notebook `auto_framing.ipynb` which shows how to use
 
 Please note that you will need the following files/folders:
 
-1. models/<name_of_your_unet_model.pth>: This will contain your trained U-net model. You can either use the one provided in the repository or bring your own.
+1. Download the U-net model from [here](https://drive.google.com/file/d/1UiUt8ER2s3yZPZfilbnhkOpWXGaIByeK/view?usp=sharing). Add the model at the root of the folder in this directory: models/<name_of_your_unet_model.pth>. This will contain your trained U-net model. You can either use the one provided from the link or bring your own.
 2. video_samples/<example_video.mp4>: You will need to add example videos at the root of the folder.
