@@ -1,0 +1,1 @@
+# Cadrage-automatique
